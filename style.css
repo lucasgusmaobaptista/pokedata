@@ -111,7 +111,6 @@ header img {
 }
 
 .info-container p {
-    grid: 3;
     font-size:  1.2rem;
     align-items: center;
     justify-content: center;
